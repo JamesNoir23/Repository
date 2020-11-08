@@ -1,1 +1,1 @@
-# Repository
+# Repository for Financial Economics
